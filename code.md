@@ -11,3 +11,4 @@ jeff commmit 4
 dorthy commit 6
 dorthy trying amend
 dorthy new branch commit 
+dorthy new branch commit 2
