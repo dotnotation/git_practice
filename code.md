@@ -12,3 +12,4 @@ dorthy commit 6
 dorthy trying amend
 dorthy new branch commit 
 dorthy new branch commit 2
+dorthy new branch commit 3
